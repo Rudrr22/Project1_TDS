@@ -3,4 +3,4 @@ Flask-Cors
 openai
 scikit-learn
 numpy
-gunicorn
+waitress
