@@ -1,6 +1,6 @@
-Flask==2.2.2
-PyGithub==1.55
-requests==2.28.1
-pytest==7.1.2
-Werkzeug==2.3.8
+Flask
+Flask-Cors
+openai
+scikit-learn
+numpy
 gunicorn
